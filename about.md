@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello world,
+I am Soumya, pronounced Sou (like wow), m (like mmm) ya (like yeah). 
+
+I am good at solving problems by building simple, scalable solutions. The skill has come in handy in my journey as a developer, product manager and author.
+
+When not solving problems, I love to read about X, write a short story, do wood work and ride my Ninja 300. (Not all at the same time, else this would be a eulogy). 
 
 ### More Information
 
